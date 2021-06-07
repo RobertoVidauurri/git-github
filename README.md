@@ -1,3 +1,3 @@
 # git-github
 
-This is my firts readme for tutorial purpose
+This is my first readme for tutorial purpose
